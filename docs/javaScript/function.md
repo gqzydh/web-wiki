@@ -127,7 +127,6 @@ const throttle = (
   return throttle
 };
 ```
-
 ## 图片懒加载
 > getBoundClientRect 的实现方式，监听 scroll 事件（建议给监听事件添加节流），图片加载完会从 img 标签组成的 DOM 列表中删除，最后所有的图片加载完毕后需要解绑监听事件
 ```
