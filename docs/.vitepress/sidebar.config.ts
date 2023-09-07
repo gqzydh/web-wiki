@@ -51,7 +51,10 @@ const sidebar = {
     {
       text: 'JavaScript',
       items: [
-        { text: 'State(状态)', link: '/vueuse/State' },
+        { text: '方法函数', link: '/javaScript/function' },
+        { text: 'Array处理', link: '/javaScript/array' },
+        { text: 'Object处理', link: '/javaScript/object' },
+        { text: 'js判断', link: '/javaScript/judgment' },
       ],
     },
   ],
