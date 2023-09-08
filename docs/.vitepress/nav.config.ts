@@ -3,6 +3,7 @@ const nav = [
     { text: 'Vue2', link: '/vue2/index' },
     { text: 'Vue3', link: '/vue3/index' },
     { text: 'JavaScript', link: '/javaScript/index' },
+    { text: 'TypeScript', link: '/typeScript/index' },
     { text: 'Node.js', link: '/nodejs/index' },
     { text: 'Mongodb', link: '/mongodb/index' },
     { text: 'Nestjs', link: '/nestjs/index' },
