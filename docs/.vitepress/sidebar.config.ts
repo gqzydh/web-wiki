@@ -8,6 +8,7 @@ const sidebar = {
         { text: '开发环境', link: '/webFront/develop' },
         { text: '风格指南', link: '/webFront/style' },
         { text: '反馈', link: '/webFront/feedback' },
+        { text: 'UnoCSS', link: '/webFront/unoCSS' },
       ],
     },
   ],
