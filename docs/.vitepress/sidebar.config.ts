@@ -68,6 +68,7 @@ const sidebar = {
       items: [
         { text: 'Ts函数', link: '/typeScript/ts-fun' },
         { text: 'Array处理', link: '/javaScript/array' },
+        { text: 'Array取值', link: '/javaScript/arrayValue' },
         { text: 'Object处理', link: '/javaScript/object' },
         { text: 'js判断', link: '/javaScript/judgment' },
       ],
